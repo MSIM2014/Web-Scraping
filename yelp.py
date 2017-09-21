@@ -1,8 +1,8 @@
 import requests
 from lxml import html
 
-USERNAME = "wenhong.cao@gmail.com"
-PASSWORD = "Ally2002"
+USERNAME = "****"
+PASSWORD = "****"
 
 LOGIN_URL = "https://www.yelp.com/login"
 # URL = "https://bitbucket.org/dashboard/repositories"
